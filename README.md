@@ -1,70 +1,82 @@
-# 🏄‍♂️ Forrest Knight
+# Timothy Smith
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Systems Engineer - College Graduate - YouTuber`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm a San Antonio-based Systems Engineer passionate about technology. I hold an Associates Degree in Computer Information Systems from SouthWest Texas Junior College and have honed my skills at Kasm Technologies, specializing in virtualization, networking, Python coding, and web development. With AWS certifications and a commitment to staying current, I'm equipped to excel in any IT role. I also run the "[HomelabTim](https://youtube.com/@HomelabTim)" YouTube channel, educating viewers on IT topics.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://homelabtim.com">
+         <img alt="website" title="View My Website" src="https://custom-icon-badges.demolab.com/badge/-WEBSITE-E61B23?style=for-the-badge&logo=globe&logoColor=white"/></a> 
+      <a href="https://www.linkedin.com/in/HomelabTim/">
+         <img alt="LinkedIn" title="View My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="smithtimothy233@protonmail.com">
+         <img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-EMAIL-purple?style=for-the-badge&logo=mail&logoColor=white"/></a>
+      <a href="https://square.link/u/Ua4WBEb1">
+         <img alt="Square Donation" title="Donate To Me" src="https://custom-icon-badges.demolab.com/badge/-DONATE-brightgreen?style=for-the-badge&logo=dollar-sign&logoSource=feather&logoColor=white"/></a>
    </p>
 
 ---
 
-### 🧰 Languages and Tools
+### Skills
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+<img align="left" alt="Mac" width="30px" style="padding-right:10px;" src="data:image/svg+xml,%3Csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3E.ENV%3C/title%3E%3Cpath d='M24 0v24H0V0h24ZM10.933 15.89H6.84v5.52h4.198v-.93H7.955v-1.503h2.77v-.93h-2.77v-1.224h2.978v-.934Zm2.146 0h-1.084v5.52h1.035v-3.6l2.226 3.6h1.118v-5.52h-1.036v3.686l-2.259-3.687Zm5.117 0h-1.208l1.973 5.52h1.19l1.976-5.52h-1.182l-1.352 4.085-1.397-4.086ZM5.4 19.68H3.72v1.68H5.4v-1.68Z'%3E%3C/path%3E%3C/svg%3E"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="YAML" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="JSON" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="JIRA" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="SSH" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="Portainer" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="VMWare" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="ESXI" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="Proxmox" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="Virtual Box" width="30px" style="padding-right:10px;" src=/>
+<img align="left" alt="Cisco" width="30px" style="padding-right:10px;" src=/>
 <br />
 
 #
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🚀 National Coding Week just got an upgrade!](https://ytcards.demolab.com/?id=TBL6mrZGZr4&title=%F0%9F%9A%80+National+Coding+Week+just+got+an+upgrade%21&lang=en&timestamp=1695312031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=52 "🚀 National Coding Week just got an upgrade!")](https://www.youtube.com/watch?v=TBL6mrZGZr4)
-[![The Making of BSD: The ACTUAL World's First Open-Source Operating System?](https://ytcards.demolab.com/?id=tuI2wX3ol2o&title=The+Making+of+BSD%3A+The+ACTUAL+World%27s+First+Open-Source+Operating+System%3F&lang=en&timestamp=1694617242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755 "The Making of BSD: The ACTUAL World's First Open-Source Operating System?")](https://www.youtube.com/watch?v=tuI2wX3ol2o)
-[![You code on the cloud but don't understand it.](https://ytcards.demolab.com/?id=H1pmbp4gX58&title=You+code+on+the+cloud+but+don%27t+understand+it.&lang=en&timestamp=1694534421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "You code on the cloud but don't understand it.")](https://www.youtube.com/watch?v=H1pmbp4gX58)
-[![If the code works, don’t touch it.](https://ytcards.demolab.com/?id=wT07kW-aPUQ&title=If+the+code+works%2C+don%E2%80%99t+touch+it.&lang=en&timestamp=1693929644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "If the code works, don’t touch it.")](https://www.youtube.com/watch?v=wT07kW-aPUQ)
-[![I Built an AI That Feeds Me Coffee for Maximum Efficiency](https://ytcards.demolab.com/?id=tyAPu2cCOZE&title=I+Built+an+AI+That+Feeds+Me+Coffee+for+Maximum+Efficiency&lang=en&timestamp=1693404079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=539 "I Built an AI That Feeds Me Coffee for Maximum Efficiency")](https://www.youtube.com/watch?v=tyAPu2cCOZE)
-[![My Entire Computer Science Student Setup in Notion](https://ytcards.demolab.com/?id=Nv1Z3Aximdg&title=My+Entire+Computer+Science+Student+Setup+in+Notion&lang=en&timestamp=1692043807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296 "My Entire Computer Science Student Setup in Notion")](https://www.youtube.com/watch?v=Nv1Z3Aximdg)
+
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<a href="https://www.youtube.com/@HomelabTim?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_bW-rmPQktTJYwqN6klbHQ?color=blue&label=SUBSCRIBE FOR MORE&logo=video&logoColor=white&style=for-the-badge&labelColor=E61B23"/></a> 
 
 #
 
-### 📊 Stats
+### GitHub Status
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![HomelabTim's GitHub stats](https://github-readme-stats.vercel.app/api?username=HomelabTim&show_icons=true&theme=algolia)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HomelabTim&layout=donut)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 Tim's Coding Journey</h3></summary>
+   I'm Timothy Smith, a Systems Engineer based in San Antonio, Texas, with a passion for all things technology. With a strong foundation in Computer Information Systems and a proven track record in Information Technology, I excel in team collaboration and project management, always striving for customer satisfaction. My academic journey led me to earn an Associates Degree in Computer Information Systems from SouthWest Texas Junior College, providing me with a solid understanding of computer systems and technology.
+   
+   
+   In my professional career, I've had the privilege of working at Kasm Technologies, where I've honed my skills in virtualization, networking, Python coding, and web development. My proficiency extends to tools such as VS Code, Git, Docker, and a variety of operating systems, including Windows, macOS, and Linux. Holding AWS certifications and boasting data management expertise, I'm committed to staying up-to-date with industry best practices.
+   
+   I am not only a tech enthusiast but also a content creator, maintaining the "HomelabTim" YouTube channel to educate viewers on IT-related topics. My diverse skill set, education, and work experience position me perfectly to contribute to any organization's growth and success in any IT-related role. 
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: https://homelabtim.com
+[youtube]: https://youtube.com/@HomelabTim
