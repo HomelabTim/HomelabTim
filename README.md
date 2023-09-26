@@ -6,11 +6,11 @@ I'm a San Antonio-based Systems Engineer passionate about technology. I hold an 
 
    <p align="left">
       <a href="https://homelabtim.com">
-         <img alt="website" title="View My Website" src="https://custom-icon-badges.demolab.com/badge/-WEBSITE-E61B23?style=for-the-badge&logo=globe&logoColor=white"/></a> 
+         <img alt="website" title="View My Website" src="https://custom-icon-badges.demolab.com/badge/-WEBSITE-purple?style=for-the-badge&logo=globe&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/HomelabTim/">
          <img alt="LinkedIn" title="View My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="smithtimothy233@protonmail.com">
-         <img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-EMAIL-purple?style=for-the-badge&logo=mail&logoColor=white"/></a>
+      <a href="https://www.youtube.com/@HomelabTim?sub_confirmation=1">
+         <img alt="YouTube" title="View My YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-E61B23?style=for-the-badge&logo=video&logoColor=white"/></a>
       <a href="https://square.link/u/Ua4WBEb1">
          <img alt="Square Donation" title="Donate To Me" src="https://custom-icon-badges.demolab.com/badge/-DONATE-brightgreen?style=for-the-badge&logo=dollar-sign&logoSource=feather&logoColor=white"/></a>
    </p>
