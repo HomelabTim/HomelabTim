@@ -1,8 +1,18 @@
 # Timothy Smith
 
-**`Systems Engineer - College Graduate - YouTuber`**
+**`Head of Infrastructure - College Graduate - YouTuber`**
 
-I'm a San Antonio-based Systems Engineer passionate about technology. I hold an Associates Degree in Computer Information Systems from SouthWest Texas Junior College and have honed my skills at Kasm Technologies, specializing in virtualization, networking, Python coding, and web development. With AWS certifications and a commitment to staying current, I'm equipped to excel in any IT role. I also run the "[HomelabTim](https://youtube.com/@HomelabTim)" YouTube channel, educating viewers on IT topics.
+I'm Timothy Smith, Head of Infrastructure at AIMG (AI Media Group) based in San Antonio, Texas, I am deeply passionate about technology. With a degree in Computer Information Systems where I Proudly held an award for Outstanding Student in my class, I thrive in team collaboration, project management, and delivering exceptional customer satisfaction.
+
+In my professional journey, I've honed my skills at Kasm Technologies, specializing in virtualization, networking, Video Editing and Documentation Writing. My proficiency extends to tools like VS Code, Git, Docker, and various operating systems, complemented by my AWS Certificated Solutions Architect Associate. 
+
+At Kasm Technologies, I played a pivotal role in advertisement, creating YouTube content, designing thumbnails, and developing software solutions for team needs, ensuring reliability through rigorous testing. Transitioning from Kasm Technologies, where I contributed to the Docker container streaming platform, I've recently been appointed as Head of Infrastructure at AIMG.
+
+At AIMG, I lead the management of on-premises servers, focusing on updates, maintenance, and ensuring optimal functionality. My role involves maintaining server health, implementing upgrades, and overseeing overall server operations to support the organization's seamless functioning. Thriving in dynamic environments, I continue to bring innovative solutions to the forefront.
+
+Beyond my professional journey, I'm a 26-year-old IT enthusiast, eager to explore new horizons. I have a dynamic presence on "[HomelabTim](https://youtube.com/@HomelabTim)", my YouTube channel which boasts 600+ subscribers, featuring popular content like the WireGuard VPN video, garnering over 21,000 views.
+
+I am excited to continue my passion in the IT world with AIMG, I'm committed to continuous learning and contributing to my growth in IT.
 
    <p align="left">
       <a href="https://homelabtim.com">
