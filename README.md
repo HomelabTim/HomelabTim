@@ -11,8 +11,6 @@ I'm a San Antonio-based IT Professional passionate about technology. I hold an A
          <img alt="LinkedIn" title="View My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://www.youtube.com/@HomelabTim?sub_confirmation=1">
          <img alt="YouTube" title="View My YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-E61B23?style=for-the-badge&logo=video&logoColor=white"/></a>
-      <a href="https://square.link/u/Ua4WBEb1">
-         <img alt="Square Donation" title="Donate To Me" src="https://custom-icon-badges.demolab.com/badge/-DONATE-brightgreen?style=for-the-badge&logo=dollar-sign&logoSource=feather&logoColor=white"/></a>
    </p>
 
 ---
